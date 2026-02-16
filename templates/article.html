@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ site_title }}{% endblock %}
+{% block description %}{{ article.body[:160] }}{% endblock %}
+{% block og_type %}article{% endblock %}
+{% block og_title %}{{ article.title }}{% endblock %}
+{% block og_description %}{{ article.body[:160] }}{% endblock %}
+{% block og_url %}{{ site_url }}/article/{{ article.slug }}.html{% endblock %}
+{% block tw_title %}{{ article.title }}{% endblock %}
+{% block tw_description %}{{ article.body[:160] }}{% endblock %}
+
+{% block head_extra %}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    "headline": {{ article.title | tojson }},
+    "datePublished": "{{ article.date }}",
+    "author": {
+        "@type": "Organization",
+        "name": {{ article.source | tojson }}
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "{{ site_title }}"
+    },
+    "description": {{ article.body[:300] | tojson }}
+}
+</script>
+{% endblock %}
+
+{% block content %}
+<article class="article-full">
+    <header>
+        <div class="article-meta">
+            <span class="source">{{ article.source }}</span>
+            <span class="category">{{ article.category | capitalize }}</span>
+            <time datetime="{{ article.date }}">{{ article.date[:10] }}</time>
+        </div>
+        <h1>{{ article.title }}</h1>
+    </header>
+
+    <div class="article-body">
+        <p>{{ article.body }}</p>
+    </div>
+
+    <footer class="article-actions">
+        <a href="{{ article.url }}" class="btn" target="_blank" rel="noopener">Read full article &rarr;</a>
+        <a href="{{ site_url }}/" class="back-link">&larr; Back to latest</a>
+    </footer>
+</article>
+{% endblock %}

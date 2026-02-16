@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="hero">
+    <h1>AI &amp; ML News</h1>
+    <p class="subtitle">{{ site_description }}</p>
+</section>
+
+<section class="category-filters">
+    <span class="filter active" data-category="all">All</span>
+    {% for cat in categories %}
+    <span class="filter" data-category="{{ cat }}">{{ cat | capitalize }}</span>
+    {% endfor %}
+</section>
+
+<section class="article-list">
+    {% for article in articles %}
+    <article class="article-card" data-category="{{ article.category }}">
+        <div class="article-meta">
+            <span class="source">{{ article.source }}</span>
+            <time datetime="{{ article.date }}">{{ article.date[:10] }}</time>
+        </div>
+        <h2><a href="{{ site_url }}/article/{{ article.slug }}.html">{{ article.title }}</a></h2>
+        <p class="summary">{{ article.body[:200] }}{% if article.body|length > 200 %}...{% endif %}</p>
+        <a href="{{ article.url }}" class="read-original" target="_blank" rel="noopener">Read original &rarr;</a>
+    </article>
+    {% endfor %}
+</section>
+
+{% if articles|length >= 30 %}
+<div class="view-all">
+    <a href="{{ site_url }}/archive.html">View all articles &rarr;</a>
+</div>
+{% endif %}
+
+<script>
+document.querySelectorAll('.filter').forEach(btn => {
+    btn.addEventListener('click', () => {
+        document.querySelectorAll('.filter').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        const cat = btn.dataset.category;
+        document.querySelectorAll('.article-card').forEach(card => {
+            card.style.display = (cat === 'all' || card.dataset.category === cat) ? '' : 'none';
+        });
+    });
+});
+</script>
+{% endblock %}

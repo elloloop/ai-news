@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}{{ site_title }}{% endblock %}</title>
+    <meta name="description" content="{% block description %}{{ site_description }}{% endblock %}">
+    <link rel="icon" href="{{ site_url }}/static/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ site_url }}/static/style.css">
+
+    <!-- Open Graph -->
+    <meta property="og:site_name" content="{{ site_title }}">
+    <meta property="og:type" content="{% block og_type %}website{% endblock %}">
+    <meta property="og:title" content="{% block og_title %}{{ site_title }}{% endblock %}">
+    <meta property="og:description" content="{% block og_description %}{{ site_description }}{% endblock %}">
+    <meta property="og:url" content="{% block og_url %}{{ site_url }}{% endblock %}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{% block tw_title %}{{ site_title }}{% endblock %}">
+    <meta name="twitter:description" content="{% block tw_description %}{{ site_description }}{% endblock %}">
+
+    {% block head_extra %}{% endblock %}
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <a href="{{ site_url }}/" class="site-logo">{{ site_title }}</a>
+            <nav>
+                <a href="{{ site_url }}/">Latest</a>
+                <a href="{{ site_url }}/archive.html">Archive</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        {% block content %}{% endblock %}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>Curated AI news from top sources. Updated every 6 hours.</p>
+            <p class="muted">Built {{ now[:10] }}</p>
+        </div>
+    </footer>
+</body>
+</html>

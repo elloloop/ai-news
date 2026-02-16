@@ -1,0 +1,55 @@
+feeds:
+  # Company blogs
+  - name: OpenAI Blog
+    url: https://openai.com/blog/rss.xml
+    category: company
+
+  - name: Anthropic Blog
+    url: https://www.anthropic.com/rss.xml
+    category: company
+
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+    category: company
+
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/rss/
+    category: company
+
+  - name: Microsoft AI Blog
+    url: https://blogs.microsoft.com/ai/feed/
+    category: company
+
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog/feed.xml
+    category: company
+
+  # Publications
+  - name: TechCrunch AI
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: publication
+
+  - name: The Verge AI
+    url: https://www.theverge.com/rss/ai-artificial-intelligence/index.xml
+    category: publication
+
+  - name: Ars Technica AI
+    url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    category: publication
+
+  - name: VentureBeat AI
+    url: https://venturebeat.com/category/ai/feed/
+    category: publication
+
+  - name: MIT Technology Review AI
+    url: https://www.technologyreview.com/feed/
+    category: publication
+
+  - name: Wired AI
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    category: publication
+
+  # Research
+  - name: BAIR Blog
+    url: https://bair.berkeley.edu/blog/feed.xml
+    category: research

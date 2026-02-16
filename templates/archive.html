@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block title %}Archive - {{ site_title }}{% endblock %}
+{% block description %}Browse all {{ total }} AI and ML news articles{% endblock %}
+
+{% block content %}
+<section class="archive">
+    <h1>Archive</h1>
+    <p class="subtitle">{{ total }} articles collected</p>
+
+    {% for month, month_articles in months.items() %}
+    <section class="archive-month">
+        <h2>{{ month }}</h2>
+        <ul class="archive-list">
+            {% for article in month_articles %}
+            <li>
+                <time datetime="{{ article.date }}">{{ article.date[:10] }}</time>
+                <a href="{{ site_url }}/article/{{ article.slug }}.html">{{ article.title }}</a>
+                <span class="source-tag">{{ article.source }}</span>
+            </li>
+            {% endfor %}
+        </ul>
+    </section>
+    {% endfor %}
+</section>
+{% endblock %}
