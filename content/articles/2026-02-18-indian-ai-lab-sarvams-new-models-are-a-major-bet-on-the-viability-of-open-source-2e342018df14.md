@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-02-18T12:55:20Z'
+slug: 2026-02-18-indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-2e342018df14
+source: TechCrunch AI
+title: Indian AI lab Sarvam’s new models are a major bet on the viability of open
+  source AI
+url: https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/
+---
+
+The new lineup includes 30-billion- and 105-billion-parameter models; a text-to-speech model; a speech-to-text model; and a vision model to parse documents.
