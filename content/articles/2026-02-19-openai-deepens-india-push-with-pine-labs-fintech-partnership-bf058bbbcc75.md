@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-02-19T03:30:00Z'
+slug: 2026-02-19-openai-deepens-india-push-with-pine-labs-fintech-partnership-bf058bbbcc75
+source: TechCrunch AI
+title: OpenAI deepens India push with Pine Labs fintech partnership
+url: https://techcrunch.com/2026/02/18/openai-deepens-india-push-with-pine-labs-fintech-partnership/
+---
+
+OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.
