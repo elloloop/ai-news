@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-02-20T00:30:00Z'
+slug: 2026-02-20-nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem-455bac5f0d64
+source: TechCrunch AI
+title: Nvidia deepens early-stage push into India’s AI startup ecosystem
+url: https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/
+---
+
+Nvidia is working with investors, nonprofits, and venture firms to build earlier ties with India's fast-growing AI founder ecosystem.
