@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-02-23T21:46:41Z'
+slug: 2026-02-23-with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-bac-f0cea96f7258
+source: TechCrunch AI
+title: 'With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now
+  also back Anthropic'
+url: https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/
+---
+
+While some dual investors are understandable, others were more shocking, and signal the disregard of a longstanding ethical conflict-of-interest rule.
