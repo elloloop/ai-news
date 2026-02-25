@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-02-25T15:52:03Z'
+slug: 2026-02-25-about-12-of-us-teens-turn-to-ai-for-emotional-support-or-advice-03622db6607d
+source: TechCrunch AI
+title: About 12% of US teens turn to AI for emotional support or advice
+url: https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/
+---
+
+General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.
