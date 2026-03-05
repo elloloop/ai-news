@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-03-04T22:40:05Z'
+slug: 2026-03-04-anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-a7f017f6edca
+source: TechCrunch AI
+title: Anthropic CEO Dario Amodei calls OpenAI’s messaging around military deal ‘straight
+  up lies,’ report says
+url: https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/
+---
+
+Anthropic gave up its contract with the Pentagon over AI safety disagreements -- then, OpenAI swooped in.
