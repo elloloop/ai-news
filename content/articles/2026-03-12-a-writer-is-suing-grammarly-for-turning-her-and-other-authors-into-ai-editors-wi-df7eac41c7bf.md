@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-03-12T16:42:40Z'
+slug: 2026-03-12-a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-wi-df7eac41c7bf
+source: TechCrunch AI
+title: A writer is suing Grammarly for turning her and other authors into ‘AI editors’
+  without consent
+url: https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/
+---
+
+Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.

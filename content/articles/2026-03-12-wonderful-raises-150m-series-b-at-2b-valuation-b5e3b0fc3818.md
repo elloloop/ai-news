@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-03-12T15:12:35Z'
+slug: 2026-03-12-wonderful-raises-150m-series-b-at-2b-valuation-b5e3b0fc3818
+source: TechCrunch AI
+title: Wonderful raises $150M Series B at $2B valuation
+url: https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/
+---
+
+The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.
