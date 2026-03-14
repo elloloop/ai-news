@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-03-13T21:37:01Z'
+slug: 2026-03-13-nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missin-8c12201fa006
+source: TechCrunch AI
+title: Nyne, founded by a father-son duo, gives AI agents the human context they’re
+  missing
+url: https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/
+---
+
+The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.
