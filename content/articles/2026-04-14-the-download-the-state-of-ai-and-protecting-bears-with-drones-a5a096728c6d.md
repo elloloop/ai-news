@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-04-14T12:10:00Z'
+slug: 2026-04-14-the-download-the-state-of-ai-and-protecting-bears-with-drones-a5a096728c6d
+source: MIT Technology Review AI
+title: 'The Download: the state of AI, and protecting bears with drones'
+url: https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/
+---
+
+This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts. If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a...
