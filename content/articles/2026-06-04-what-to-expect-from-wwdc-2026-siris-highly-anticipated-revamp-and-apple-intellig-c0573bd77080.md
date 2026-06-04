@@ -1,0 +1,11 @@
+---
+category: publication
+date: '2026-06-04T16:31:12Z'
+slug: 2026-06-04-what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intellig-c0573bd77080
+source: TechCrunch AI
+title: 'What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple
+  Intelligence updates'
+url: https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/
+---
+
+Apple's WWDC nears: Here's what you can look forward to.
