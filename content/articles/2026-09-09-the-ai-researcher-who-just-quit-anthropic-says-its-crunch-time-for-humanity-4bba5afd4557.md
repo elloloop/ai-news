@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-09-09T22:11:55Z'
+slug: 2026-09-09-the-ai-researcher-who-just-quit-anthropic-says-its-crunch-time-for-humanity-4bba5afd4557
+source: Wired AI
+title: The AI Researcher Who Just Quit Anthropic Says It’s ‘Crunch Time for Humanity’
+url: https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/
+---
+
+Jacob Coxon talks to WIRED about the “mini Manhattan project” inside Anthropic, the problem with alignment, and why AI labs have just a few years left to make their systems safe.
