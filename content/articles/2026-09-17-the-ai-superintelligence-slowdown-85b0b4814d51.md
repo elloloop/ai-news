@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-09-17T15:28:24Z'
+slug: 2026-09-17-the-ai-superintelligence-slowdown-85b0b4814d51
+source: The Verge AI
+title: The AI Superintelligence Slowdown
+url: https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic
+---
+
+Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting...
