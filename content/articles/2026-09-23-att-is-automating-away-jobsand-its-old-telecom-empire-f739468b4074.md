@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-09-23T10:15:00Z'
+slug: 2026-09-23-att-is-automating-away-jobsand-its-old-telecom-empire-f739468b4074
+source: Wired AI
+title: AT&T Is Automating Away Jobs—and Its Old Telecom Empire
+url: https://www.wired.com/story/atandt-is-automating-away-its-old-telecom-empire/
+---
+
+The telecom giant is eager to show Wall Street that it can do more with less. That means fewer employees, less electricity, and increased automation.
