@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-10-12T12:47:59Z'
+slug: 2026-10-12-former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background-f1588e6ffbfd
+source: TechCrunch AI
+title: Former Plaud exec raises $26M for AI app that listens to you in the background
+url: https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/
+---
+
+Ambi is releasing apps for iPhone, Mac, and Apple Watch that enables ambient capture
