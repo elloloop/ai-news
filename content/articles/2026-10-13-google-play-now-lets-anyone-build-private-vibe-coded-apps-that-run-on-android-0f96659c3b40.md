@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-10-13T17:00:00Z'
+slug: 2026-10-13-google-play-now-lets-anyone-build-private-vibe-coded-apps-that-run-on-android-0f96659c3b40
+source: TechCrunch AI
+title: Google Play now lets anyone build private, vibe-coded apps that run on Android
+url: https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/
+---
+
+Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
