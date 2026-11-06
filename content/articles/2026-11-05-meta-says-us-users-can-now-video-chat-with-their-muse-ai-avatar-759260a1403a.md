@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-11-05T19:48:28Z'
+slug: 2026-11-05-meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar-759260a1403a
+source: TechCrunch AI
+title: Meta says US users can now video chat with their Muse AI avatar
+url: https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/
+---
+
+Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.
