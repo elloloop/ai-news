@@ -1,0 +1,10 @@
+---
+category: publication
+date: '2026-11-16T12:30:00Z'
+slug: 2026-11-16-freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm-67c0dbdc21f2
+source: TechCrunch AI
+title: Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM
+url: https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/
+---
+
+Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.
